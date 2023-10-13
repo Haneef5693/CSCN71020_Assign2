@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdbool.h>
 
-#include "main.h"
+#include "Header.h"
 
 void main() {
 	int length = 1;
@@ -107,3 +107,4 @@ void printOptions() {
 	printf("5. Get Rectangle Area\n");
 	printf("6. Exit\n");
 }
+
